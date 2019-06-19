@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comboenxml">
+        <item>Ver más</item>
+        <item>Paquete Oro</item>
+        <item>Paquete Plata</item>
+        <item>Paquete Bronce</item>
+    </string-array>
+</resources>

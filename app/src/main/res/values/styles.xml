@@ -1,0 +1,27 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MiToastRojo">
+        <item name="colorBackground">#DA2E2E</item>
+        <item name="textColor">#FFFFFF</item>
+        <item name="iconLeft">@drawable/ic_warning</item>
+        <item name="strokeColor">#000000</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="length">SHORT</item>
+        <item name="cornerRadius">4dp</item>
+    </style>
+    <style name="MiToastVerde">
+        <item name="colorBackground">#43A047</item>
+        <item name="textColor">#FFFFFF</item>
+        <item name="iconLeft">@drawable/ic_info</item>
+        <item name="strokeColor">#000000</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="length">SHORT</item>
+        <item name="cornerRadius">4dp</item>
+    </style>
+</resources>
