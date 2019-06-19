@@ -12,6 +12,7 @@ import android.widget.TextView;
 
 import com.muddzdev.styleabletoastlibrary.StyleableToast;
 
+//Clase que usamos para seleccionar el paquete
 public class InicioDeTodo extends AppCompatActivity {
     private TextView Cliente;
     Spinner combito;

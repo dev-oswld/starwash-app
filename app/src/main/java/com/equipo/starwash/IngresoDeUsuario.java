@@ -12,6 +12,7 @@ import com.muddzdev.styleabletoastlibrary.StyleableToast;
 import java.util.regex.Pattern;
 import static android.text.TextUtils.isEmpty;
 
+//Clase que usamos para el registro de un usuario
 public class IngresoDeUsuario extends AppCompatActivity {
 
     private static final Pattern PASSWORD_PATTERN =
